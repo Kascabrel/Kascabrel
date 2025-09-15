@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub
 
-Hi, I'm **[Your Name]** — a passionate developer exploring **software engineering, IoT, and automation**.  
+Hi, I'm **Steve kamguia** — a passionate developer exploring **software engineering, IoT, and automation**.  
 I love working on projects that mix **backend, frontend, DevOps, and embedded systems**.  
 
 ---
