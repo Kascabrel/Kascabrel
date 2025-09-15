@@ -55,9 +55,9 @@ I love working on projects that mix **backend, frontend, DevOps, and embedded sy
 ---
 
 ## 🤝 Let’s Connect!
-- GitHub: [your-username](https://github.com/your-username)  
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin/)  
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- GitHub: (https://github.com/kascabrel)  
+- LinkedIn: (https://www.linkedin.com/in/steve-kamguia-144989257/)  
+- Email: (mailto:kascabrel@gmail.com)
 
 ---
 
