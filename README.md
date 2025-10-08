@@ -7,11 +7,11 @@ I love working on projects that mix **backend, frontend, DevOps, and embedded sy
 
 | 🚀 Programming Languages | 🔧 Backend | 🎨 Frontend |
 |--------------------------|-----------|-------------|
-| Python, PHP, C/C++, TypeScript (basic), C# (basic) | Flask (Python), Laravel (PHP) | Bootstrap, Tailwind CSS (basic), Flutter, Angular |
+| Python, C/C++, PHP(basic), TypeScript (basic), C# (basic) | Flask (Python), Laravel (basic) | Bootstrap, Flutter, Angular |
 
 | 📡 Communication & Messaging | ⚙️ DevOps / Infrastructure | 🔌 Embedded Systems & IoT |
 |-----------------------------|---------------------------|----------------------------|
-| Kafka, gRPC, MQTT, REST APIs, Socket | Kubernetes (basic), Docker/DockerHub, Cloudflared, GitHub Actions | Arduino (C/C++), Home & Industrial Automation |
+| gRPC(basic), MQTT, REST APIs, Socket | Kubernetes (basic), Docker/DockerHub, Cloudflared, GitHub Actions | Arduino (C/C++), Home & Industrial Automation |
 
 ## 💡 About Me
 - 🔭 Currently learning and improving in **microservices & distributed systems**  
